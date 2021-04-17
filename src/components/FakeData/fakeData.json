@@ -1,0 +1,91 @@
+[
+{"id":1,
+"title":"Microsoft Power Platform",
+"summary": "Get your start in one of the fastest growing fields in technology.",
+"price":124,
+"image": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1zsazV3txXZZuf7I5SdA2Q/adc31e57ce1cb7ffb248122204425202/nd321-syllabus-image.png"
+},
+{"id":2,
+"title": "Hybrid Cloud Fundamentals",
+"summary": "Get your start in one of the fastest growing fields in technology.",
+"price":99,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ep245_thumbnail.jpg"
+},
+{"id":3,
+"title": "Intro to Cloud Computing",
+"summary": "Get your start in one of the fastest growing fields in technology.",
+"price":49,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-image-ud080.jpg"
+},
+{"id":4,
+"title": "Tales from the Genome",
+"summary": "Learn the basics of genetics, with a personal twist. This class is all about DNA and how it shapes who we are.",
+"price":100,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/bio110_thumbnail.jpg"
+},
+{"id":5,
+"title": "Design of Computer Programs",
+"summary": "Learn how to model problems, and how to optimize performance by using some of the advanced features of Python.",
+"price":49,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs212_thumbnail.jpg"
+},
+{"id":6,
+"title": "Intro to Algorithms",
+"summary": "This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected.",
+"price":60,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs215_thumbnail.jpg"
+},
+{"id":7,
+"title": "Differential Equations in Action",
+"price":325,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs222_thumbnail.jpg",
+"summary":"Write Python code to find numerical solutions to systems of differential equations. The models you create will fight wildfires, bring spaceships back to earth, and more!"
+},
+{"id":8,
+"title": "Mobile Web Development",
+"summary":"In this course, you'll learn how to build great mobile web experiences. We'll cover performance issues on mobile, and how to make use of mobile sensors.",
+"price":225,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs256_thumbnail.jpg"
+},
+{"id":9,
+"title": "Software Debugging",
+"summary": "In this course you will learn how to debug programs systematically using scientific methods and build several automated debugging tools in Python.",
+"price":100,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs259_thumbnail.jpg"
+},
+{"id":10,
+"title": "Intro to Artificial Intelligence",
+"summary":"This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing.",
+"price":90,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs271_thumbnail.jpg"
+},
+{"id":11,
+"title": "Intro to Theoretical Computer Science",
+"summary": "Learn the basic concepts in theoretical computer science. Discover what they imply for solving tough computational challenges.",
+"price":15,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs313_thumbnail.jpg"
+},
+{"id":12,
+"title": "Science of Secrets",
+"summary":"Cryptography is present in everyday life, from paying with a credit card to using the telephone.  Learn all about making and breaking puzzles in computing.",
+"price":25,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs387_thumbnail.jpg"
+},
+{"id":13,
+"title": "Intro to the Design of Everyday Things",
+"summary":"This course will provide you with the insight to start recognizing the role of design in today’s world, and to start making better design decisions in your own life.",
+"price":19,
+"image": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/design101_thumbnail.jpg"
+},
+{"id":14,
+"title": "Intro to Programming Nanodegree Preview",
+"summary": "Learn the basics of programming through HTML, CSS, JavaScript and Python.",
+"price":12,
+"image": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Intro-to-Programming.png"
+},
+{"id":15,
+"title": "Data Scientist Nanodegree Preview",
+"summary": "Master in-demand data science skills that qualify you for high-value jobs.",
+"price":105,
+"image": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Data-Analyst.png"}
+]
